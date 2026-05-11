@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.1.0",
   "type": "module",
-  "description": "Visual CIDR, VLSM, VLAN, and IP addressing trainer inspired by EETEPA Vilhena Alves networking classes.",
+  "description": "Simulador visual de CIDR, VLSM, VLANs e enderecamento IP para aulas de redes.",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
